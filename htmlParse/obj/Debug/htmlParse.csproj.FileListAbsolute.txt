@@ -1,0 +1,14 @@
+c:\users\furkan\documents\visual studio 2013\Projects\htmlParse\htmlParse\bin\Debug\htmlParse.exe.config
+c:\users\furkan\documents\visual studio 2013\Projects\htmlParse\htmlParse\bin\Debug\htmlParse.exe
+c:\users\furkan\documents\visual studio 2013\Projects\htmlParse\htmlParse\bin\Debug\htmlParse.pdb
+c:\users\furkan\documents\visual studio 2013\Projects\htmlParse\htmlParse\obj\Debug\htmlParse.csprojResolveAssemblyReference.cache
+c:\users\furkan\documents\visual studio 2013\Projects\htmlParse\htmlParse\obj\Debug\htmlParse.Form1.resources
+c:\users\furkan\documents\visual studio 2013\Projects\htmlParse\htmlParse\obj\Debug\htmlParse.Properties.Resources.resources
+c:\users\furkan\documents\visual studio 2013\Projects\htmlParse\htmlParse\obj\Debug\htmlParse.csproj.GenerateResource.Cache
+c:\users\furkan\documents\visual studio 2013\Projects\htmlParse\htmlParse\obj\Debug\htmlParse.exe
+c:\users\furkan\documents\visual studio 2013\Projects\htmlParse\htmlParse\obj\Debug\htmlParse.pdb
+c:\users\furkan\documents\visual studio 2013\Projects\htmlParse\htmlParse\bin\Debug\HtmlAgilityPack.dll
+c:\users\furkan\documents\visual studio 2013\Projects\htmlParse\htmlParse\bin\Debug\HtmlAgilityPack.pdb
+c:\users\furkan\documents\visual studio 2013\Projects\htmlParse\htmlParse\bin\Debug\HtmlAgilityPack.xml
+c:\users\furkan\documents\visual studio 2013\Projects\htmlParse\htmlParse\obj\Debug\htmlParse.Form2.resources
+C:\Users\Furkan\Documents\Visual Studio 2013\Projects\htmlParse\htmlParse\obj\Debug\htmlParse.Form3.resources
